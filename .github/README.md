@@ -18,36 +18,36 @@ Oppia is written using Python and AngularJS, and is built on top of Google App E
     <img src="https://user-images.githubusercontent.com/30050862/228266651-1270bedc-658a-40d8-8ab4-16b63de4deaf.png">
   </a>
 </p>
+## Installation 🛠️
 
-## Installation
+For detailed installation instructions, please visit our [Installing Oppia](link) page.
 
-Please refer to the [Installing Oppia page](https://github.com/oppia/oppia/wiki/Installing-Oppia) for full instructions.
+## Contributing 🤝
 
-## Contributing
+Here's how you can contribute to Oppia:
 
-The Oppia project is built by the community for the community. We welcome contributions from everyone, especially new contributors.
+- Developers: Find instructions on setting up your environment and making contributions in this [wiki page](link).
+- All other contributors: Please follow our [general contributor guidelines](link).
 
-You can help with Oppia's development in many ways, including art, coding, design and documentation.
-  * **Developers**: please see [this wiki page](https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia#setting-things-up) for instructions on how to set things up and commit changes.
-  * **All other contributors**: please see our [general contributor guidelines](https://github.com/oppia/oppia/wiki).
+## Support 🆘
 
+If you have feature requests or bug reports, please log them on our issue tracker. We appreciate your input in making Oppia better.
 
-## Support
+For security issues, please report them directly to admin@oppia.org. Your vigilance keeps our project safe.
 
-If you have any feature requests or bug reports, please log them on our [issue tracker](https://github.com/oppia/oppia/issues/new/choose).
+## License 📜
 
-Please report security issues directly to admin@oppia.org.
+The Oppia code is released under the Apache v2 license, promoting open collaboration.
 
+## Keeping in Touch 📬
 
-## License
+Stay connected with the Oppia community:
 
-The Oppia code is released under the [Apache v2 license](https://github.com/oppia/oppia/blob/develop/LICENSE).
+- Join discussions on our [Discussion Forum](link).
+- Stay updated with the latest news through our Announcements Mailing List.
 
+We're excited to have you as a part of the Oppia family. Let's make learning accessible and engaging for everyone! 🚀
 
-## Keeping in touch
-
-  * [Discussion forum](https://github.com/oppia/oppia/discussions)
-  * [Announcements mailing list](http://groups.google.com/group/oppia-announce)
 
 ## Social Media
 [<img height="30" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img height="30" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn] [<img height="30" src = "https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook] [<img height="30" src = "https://img.shields.io/badge/medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white">][medium] [<img height="30" src = "https://img.shields.io/badge/oppia.org%20youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">][oppia-org-youtube] [<img height="30" src = "https://img.shields.io/badge/oppia%20dev%20youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">][dev-youtube]
